@@ -1,6 +1,7 @@
 package phase.first.beforedsu.conditionalthinking.mulltinestedconditions;
 
 import org.junit.jupiter.api.Test;
+import phase.first.beforedsu.conditionalthinking.mathandnumber.CheckMiddleDigitIsLargestSmallest;
 
 import static org.junit.jupiter.api.Assertions.*;
 

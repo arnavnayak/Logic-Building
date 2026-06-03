@@ -1,4 +1,4 @@
-package phase.first.beforedsu.conditionalthinking.mulltinestedconditions;
+package phase.first.beforedsu.conditionalthinking.mathandnumber;
 
 public class CheckDigitsAreDistinctFor3DigitNumber {
 
